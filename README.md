@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayank Vajpayee
-- 🧑‍💻 Currently working as Assistant Maanager- Data Analystics at Zinnia Software Limited
+- 🧑‍💻 Currently working as Assistant Maanager- Data Analystics at Zinnia
 - 👀 I’m interested in Machine Learning and Artificial Intellegence
 - 🌱 I’m currently learning Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
