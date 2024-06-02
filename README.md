@@ -4,7 +4,7 @@
 - 👀 Keen interest in Machine Learning and Artificial Intellegence
 - 🌱 PGD in Data Science from IIT Guwahati
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 
+  
 - 📫 You can reach out to me on LinkedIn  https://www.linkedin.com/in/mayank-vajpayee-74248ba6/
 
 <!---
